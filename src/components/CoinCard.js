@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import {View, Text, StyleSheet, image} from 'react-native'
 import {images} from '../Utils/Coinicons'
 
